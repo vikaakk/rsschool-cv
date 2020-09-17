@@ -5,8 +5,6 @@
 
 
 
-
-
 I am seeking a full-time position of Front-End Developer where I can apply my skills and knowledge.
 
 
