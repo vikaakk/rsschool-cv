@@ -5,8 +5,6 @@
 
 
 
-<aside><img src="https://vruzh.netlify.app/img/IMG_0159.JPG" alt="Photo" width="100"></aside>
-
 
 
 I am seeking a full-time position of Front-End Developer where I can apply my skills and knowledge.
